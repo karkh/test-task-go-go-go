@@ -1,0 +1,24 @@
+{
+  "name": "test-task-go-go-go",
+  "version": "1.0.0",
+  "description": "Надо из простого сервиса на NodeJS сделать аналогичный на Go",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karkh/test-task-go-go-go.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karkh/test-task-go-go-go/issues"
+  },
+  "homepage": "https://github.com/karkh/test-task-go-go-go#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nanoid": "2.1.11"
+  }
+}
