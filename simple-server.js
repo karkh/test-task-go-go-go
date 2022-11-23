@@ -1,5 +1,5 @@
 const express = require('express')
-const paymentController = require('./controllers/pament-controller')
+const paymentController = require('./controllers/payment-controller')
 const http = require('http')
 
 const PORT = process.env.PORT || 8029
